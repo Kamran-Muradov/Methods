@@ -1,0 +1,14 @@
+C:\Workspace Code Academy\Csharp-Methods\Csharp-Methods\bin\Debug\net6.0\Csharp-Methods.exe
+C:\Workspace Code Academy\Csharp-Methods\Csharp-Methods\bin\Debug\net6.0\Csharp-Methods.deps.json
+C:\Workspace Code Academy\Csharp-Methods\Csharp-Methods\bin\Debug\net6.0\Csharp-Methods.runtimeconfig.json
+C:\Workspace Code Academy\Csharp-Methods\Csharp-Methods\bin\Debug\net6.0\Csharp-Methods.dll
+C:\Workspace Code Academy\Csharp-Methods\Csharp-Methods\bin\Debug\net6.0\Csharp-Methods.pdb
+C:\Workspace Code Academy\Csharp-Methods\Csharp-Methods\obj\Debug\net6.0\Csharp-Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace Code Academy\Csharp-Methods\Csharp-Methods\obj\Debug\net6.0\Csharp-Methods.AssemblyInfoInputs.cache
+C:\Workspace Code Academy\Csharp-Methods\Csharp-Methods\obj\Debug\net6.0\Csharp-Methods.AssemblyInfo.cs
+C:\Workspace Code Academy\Csharp-Methods\Csharp-Methods\obj\Debug\net6.0\Csharp-Methods.csproj.CoreCompileInputs.cache
+C:\Workspace Code Academy\Csharp-Methods\Csharp-Methods\obj\Debug\net6.0\Csharp-Methods.dll
+C:\Workspace Code Academy\Csharp-Methods\Csharp-Methods\obj\Debug\net6.0\refint\Csharp-Methods.dll
+C:\Workspace Code Academy\Csharp-Methods\Csharp-Methods\obj\Debug\net6.0\Csharp-Methods.pdb
+C:\Workspace Code Academy\Csharp-Methods\Csharp-Methods\obj\Debug\net6.0\Csharp-Methods.genruntimeconfig.cache
+C:\Workspace Code Academy\Csharp-Methods\Csharp-Methods\obj\Debug\net6.0\ref\Csharp-Methods.dll
